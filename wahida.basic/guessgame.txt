@@ -1,0 +1,44 @@
+
+n=4
+Input: "Guess a number from 1 to n: "
+
+
+first option
+
+if (n < 4 ) 
+    {
+    Output="My number is lower than 4, guess again lower!"
+    } 
+
+if (n > 4)
+    {
+    Output=“My number is higher than 4, guess again higher!”
+    }
+
+if (n=4) 
+    {
+    Output=“You are correct - the random number is 4! :)”
+    }
+
+///////////////////////////////////////////
+
+if (n != 4)
+{
+
+if (n < 4)
+    {
+    Output="My number is lower than 4, guess again lower!"
+    } 
+
+if (n > 4)
+    {
+    Output=“My number is higher than 4, guess again higher!”
+    }
+
+} 
+    else (n=4) 
+    {
+    Output=“You are correct - the random number is 4! :)”
+    }
+
+    
