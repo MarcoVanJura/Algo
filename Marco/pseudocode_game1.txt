@@ -1,0 +1,11 @@
+n=4
+Input: guess my number from 1 to n
+
+if (input = <n)
+    {my number is higher than input, guess again}
+
+if (input = >n)
+    {my number is lower than input, guess again}
+
+if (input = 4)
+    {correct, n=4, End}
